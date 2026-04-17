@@ -1,30 +1,36 @@
 <h1 align="center">Juan Pablo Mercado Arizmendi</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/FULL%20STACK%20ENGINEER-212121?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/RED%20TEAM%20SPECIALIST-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20CERTIFIED-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/🛡️_RED_TEAM_OPERATOR-D32F2F?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻_FULL_STACK_DEVELOPER-1976D2?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/☁️_AWS_CERTIFIED-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-### Executive Summary
-Ingeniero en Sistemas enfocado en la construcción de **software de alta disponibilidad** y **seguridad ofensiva**. Especialista en digitalizar modelos de negocio mediante arquitecturas escalables (**MVC**, **Microservicios**) y el despliegue de infraestructura segura en la nube. Mi enfoque combina la eficiencia del desarrollo Full Stack con la mentalidad crítica de un operador Red Team para garantizar la resiliencia desde la primera línea de código.
+### 🚀 Perfil Ejecutivo
+Ingeniero en Sistemas con 6 años de formación técnica y más de 3 años de experiencia profesional en el ciclo de vida de desarrollo de software. Mi perfil evoluciona desde la construcción de arquitecturas escalables (**Full Stack**) hacia la **Ciberseguridad Ofensiva (Red Team)**, aplicando una mentalidad de "Security by Design". Especializado en digitalización de negocios y auditorías de seguridad, respaldado por certificaciones internacionales y una pasión por el hacking ético.
 
 ---
 
-### 🛠️ Core Technology Stack
+### 🛡️ Arsenal de Seguridad Ofensiva
+* **Certificaciones:** `eJPTv2` | `CompTIA Security+` | `AWS Cloud Practitioner`
+* **Specialization:** Explotación de Active Directory, Pentesting de Redes, Pentesting Web (OWASP Top 10) y Hardening de sistemas.
+* **Tooling:** Nmap, Metasploit, Burp Suite, BloodHound, SQLmap, Kali Linux.
+* **Custom Tooling:** Desarrollador de **NetSentinel**, herramienta propia en Python para reconocimiento y explotación automatizada.
 
-| Ecosystem | Technologies |
+---
+
+### 💻 Ingeniería de Software & Arquitectura
+| Capa | Tecnologías |
 | :--- | :--- |
-| **Backend & Architecture** | `PHP (Laravel)` `Python (Flask)` `C#` `Node.js` `MVC` `Singleton` |
-| **Frontend & UI/UX** | `TypeScript` `Angular` `JavaScript (ES6+)` `Tailwind CSS` `Bootstrap` |
-| **Data & DevOps** | `MySQL` `PostgreSQL` `AWS (CCP)` `Docker` `Git` `Linux Server` |
-| **Cybersecurity** | `Ethical Hacking` `OWASP Top 10` `Active Directory Security` `Nmap` `Metasploit` |
+| **Backend** | `Python (Flask)` `PHP (Laravel/MVC)` `Node.js` `C#` |
+| **Frontend** | `Angular` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` |
+| **Infraestructura** | `AWS` `Docker` `Linux (Bash Scripting)` `MySQL` |
+| **Patrones** | `MVC` `Singleton` `REST APIs` `Secure SDLC` |
 
 ---
 
-### 📊 Development Activity & Metrics
-
+### 📊 Actividad & Métricas de Ingeniería
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jp-software-dev&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=9f9f9f" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-software-dev&layout=compact&theme=transparent&hide_border=true&title_color=3670A0&text_color=9f9f9f&hide=hack,css" height="165" />
@@ -32,26 +38,26 @@ Ingeniero en Sistemas enfocado en la construcción de **software de alta disponi
 
 ---
 
-### Engineering Focus
-* **Secure SDLC:** Integración de seguridad en cada fase del ciclo de vida de desarrollo.
-* **Performance Optimization:** Refactorización de código y optimización de consultas SQL para entornos de alto tráfico.
-* **Automation:** Creación de scripts y herramientas tácticas (Python) para la optimización de flujos de trabajo.
+### 💼 Proyectos Destacados
+* **Booking System:** Sistema de gestión médica robusto con arquitectura MVC y patrones Singleton.
+* **Hand Sentinel:** Motor de visión artificial en Python para control gestual táctico.
+* **Global Car Platform:** Digitalización completa de inventarios automotrices con enfoque en UX/UI.
 
 ---
 
-### Connect with me
+### 🌐 Contacto & Redes
 <p align="left">
   <a href="https://linkedin.com/in/juan-pablo-devsec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vanguard.devsec@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/jp-software-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase del Día" />
 </p>
