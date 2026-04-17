@@ -1,36 +1,37 @@
 <h1 align="center">Juan Pablo Mercado Arizmendi</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/🛡️_RED_TEAM_OPERATOR-D32F2F?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/💻_FULL_STACK_DEVELOPER-1976D2?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/☁️_AWS_CERTIFIED-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/FULL%20STACK%20ENGINEER-1976D2?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYSTEMS%20ENGINEER-212121?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20CERTIFIED-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Perfil Ejecutivo
-Ingeniero en Sistemas con 6 años de formación técnica y más de 3 años de experiencia profesional en el ciclo de vida de desarrollo de software. Mi perfil evoluciona desde la construcción de arquitecturas escalables (**Full Stack**) hacia la **Ciberseguridad Ofensiva (Red Team)**, aplicando una mentalidad de "Security by Design". Especializado en digitalización de negocios y auditorías de seguridad, respaldado por certificaciones internacionales y una pasión por el hacking ético.
+### 🚀 Perfil Profesional
+Ingeniero en Sistemas con 6 años de formación técnica y más de 3 años de experiencia en la digitalización de procesos de negocio. Especializado en el desarrollo de software **Full Stack** bajo arquitecturas robustas y escalables. Mi enfoque se centra en la creación de soluciones de alta disponibilidad, optimización de flujos de trabajo y el diseño de sistemas resilientes utilizando estándares de ingeniería modernos.
 
 ---
 
-### 🛡️ Arsenal de Seguridad Ofensiva
-* **Certificaciones:** `eJPTv2` | `CompTIA Security+` | `AWS Cloud Practitioner`
-* **Specialization:** Explotación de Active Directory, Pentesting de Redes, Pentesting Web (OWASP Top 10) y Hardening de sistemas.
-* **Tooling:** Nmap, Metasploit, Burp Suite, BloodHound, SQLmap, Kali Linux.
-* **Custom Tooling:** Desarrollador de **NetSentinel**, herramienta propia en Python para reconocimiento y explotación automatizada.
+### 💻 Ecosistema Técnico
 
----
-
-### 💻 Ingeniería de Software & Arquitectura
 | Capa | Tecnologías |
 | :--- | :--- |
-| **Backend** | `Python (Flask)` `PHP (Laravel/MVC)` `Node.js` `C#` |
-| **Frontend** | `Angular` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` |
-| **Infraestructura** | `AWS` `Docker` `Linux (Bash Scripting)` `MySQL` |
-| **Patrones** | `MVC` `Singleton` `REST APIs` `Secure SDLC` |
+| **Backend** | `PHP (Laravel/MVC)` `Python (Flask)` `C#` `Node.js` |
+| **Frontend** | `Angular` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `Bootstrap` |
+| **Infraestructura** | `AWS (Cloud Practitioner)` `Docker` `Linux Server` `Apache` |
+| **Data & Patterns** | `MySQL` `PostgreSQL` `Singleton` `MVC` `RESTful APIs` |
 
 ---
 
-### 📊 Actividad & Métricas de Ingeniería
+### 🛠️ Ingeniería & Metodologías
+* **Architectural Design:** Implementación estricta de patrones de diseño para asegurar la mantenibilidad y escalabilidad del código.
+* **Business Digitalization:** Transformación de requerimientos complejos en soluciones tecnológicas rentables y eficientes.
+* **Performance & Optimization:** Refactorización de sistemas y optimización de bases de datos para entornos de alta demanda.
+* **Continuous Learning:** Formación constante en nuevas tecnologías y despliegue de infraestructura en la nube (AWS).
+
+---
+
+### 📊 Métricas de Desarrollo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jp-software-dev&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=9f9f9f" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-software-dev&layout=compact&theme=transparent&hide_border=true&title_color=3670A0&text_color=9f9f9f&hide=hack,css" height="165" />
@@ -38,14 +39,14 @@ Ingeniero en Sistemas con 6 años de formación técnica y más de 3 años de ex
 
 ---
 
-### 💼 Proyectos Destacados
-* **Booking System:** Sistema de gestión médica robusto con arquitectura MVC y patrones Singleton.
-* **Hand Sentinel:** Motor de visión artificial en Python para control gestual táctico.
-* **Global Car Platform:** Digitalización completa de inventarios automotrices con enfoque en UX/UI.
+### 📂 Proyectos de Ingeniería Destacados
+* **Medical Booking System:** Plataforma integral de gestión de citas con arquitectura MVC, patrones Singleton y automatización de notificaciones SMTP.
+* **Hand Sentinel:** Motor de visión artificial desarrollado en Python para el reconocimiento gestual y control de interfaces en tiempo real.
+* **Global Car Platform:** Sistema de gestión de inventarios y catálogos interactivos para el sector automotriz de lujo.
 
 ---
 
-### 🌐 Contacto & Redes
+### 📫 Contacto Profesional
 <p align="left">
   <a href="https://linkedin.com/in/juan-pablo-devsec/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -59,5 +60,5 @@ Ingeniero en Sistemas con 6 años de formación técnica y más de 3 años de ex
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase del Día" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
