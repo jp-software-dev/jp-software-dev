@@ -1,62 +1,57 @@
-<h1 align="left">Juan Pablo Mercado</h1>
-
-###
-
-<p align="left">
-  <strong>Full Stack Software Developer | Systems Engineer</strong><br>
-  Especializado en el desarrollo de soluciones escalables, arquitecturas robustas y digitalización de procesos de negocio. Con más de 6 años de formación técnica y 3 años de experiencia en ingeniería de software, enfoco mi desarrollo en la creación de sistemas resilientes, seguros y de alto rendimiento.
+<h1 align="center">Juan Pablo Mercado Arizmendi</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL%20STACK%20ENGINEER-212121?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/RED%20TEAM%20SPECIALIST-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20CERTIFIED-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-###
+---
 
-<h2 align="left">🚀 Arsenal Tecnológico</h2>
+### Executive Summary
+Ingeniero en Sistemas enfocado en la construcción de **software de alta disponibilidad** y **seguridad ofensiva**. Especialista en digitalizar modelos de negocio mediante arquitecturas escalables (**MVC**, **Microservicios**) y el despliegue de infraestructura segura en la nube. Mi enfoque combina la eficiencia del desarrollo Full Stack con la mentalidad crítica de un operador Red Team para garantizar la resiliencia desde la primera línea de código.
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <br>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <br>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
+### 🛠️ Core Technology Stack
 
-###
+| Ecosystem | Technologies |
+| :--- | :--- |
+| **Backend & Architecture** | `PHP (Laravel)` `Python (Flask)` `C#` `Node.js` `MVC` `Singleton` |
+| **Frontend & UI/UX** | `TypeScript` `Angular` `JavaScript (ES6+)` `Tailwind CSS` `Bootstrap` |
+| **Data & DevOps** | `MySQL` `PostgreSQL` `AWS (CCP)` `Docker` `Git` `Linux Server` |
+| **Cybersecurity** | `Ethical Hacking` `OWASP Top 10` `Active Directory Security` `Nmap` `Metasploit` |
 
-<h2 align="left">💻 Especialización en Ingeniería</h2>
+---
 
-###
+### 📊 Development Activity & Metrics
 
-<p align="left">
-  • <strong>Arquitectura de Software:</strong> Implementación de patrones de diseño (MVC, Singleton) para sistemas mantenibles.<br>
-  • <strong>Backend & APIs:</strong> Desarrollo de lógica de negocio compleja, integración de servicios SMTP y manejo de persistencia de datos segura vía PDO.<br>
-  • <strong>Full Stack:</strong> Creación de interfaces dinámicas y responsivas conectadas a servicios en la nube (AWS Certified).<br>
-  • <strong>DevSecOps Mindset:</strong> Enfoque nativo en seguridad desde el diseño (Secure SDLC) y validación estricta de datos.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jp-software-dev&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=9f9f9f" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-software-dev&layout=compact&theme=transparent&hide_border=true&title_color=3670A0&text_color=9f9f9f&hide=hack,css" height="165" />
 </p>
 
-###
+---
 
-<h2 align="left">📊 Estadísticas de Desarrollo</h2>
+### Engineering Focus
+* **Secure SDLC:** Integración de seguridad en cada fase del ciclo de vida de desarrollo.
+* **Performance Optimization:** Refactorización de código y optimización de consultas SQL para entornos de alto tráfico.
+* **Automation:** Creación de scripts y herramientas tácticas (Python) para la optimización de flujos de trabajo.
 
+---
+
+### Connect with me
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jp-software-dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-software-dev&layout=compact&theme=tokyonight&hide=css,html" alt="Top Languages" height="150" />
-</p>
-
-###
-
-<div align="left">
   <a href="https://linkedin.com/in/juan-pablo-devsec/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vanguard.devsec@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+  <a href="https://github.com/jp-software-dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+</p>
