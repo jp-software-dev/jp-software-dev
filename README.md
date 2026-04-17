@@ -51,7 +51,7 @@ La actividad en este perfil se centra en la construccion de estructuras escalabl
 
 * **LinkedIn:** [linkedin.com/in/juan-pablo-devsec/](https://linkedin.com/in/juan-pablo-devsec/)
 * **GitHub:** [github.com/jp-software-dev](https://github.com/jp-software-dev)
-* * **Email:** vanguard.devsec@gmail.com
+* **Email:** vanguard.devsec@gmail.com
 
 ---
 *Generated as part of a professional software development portfolio.*
