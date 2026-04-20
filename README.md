@@ -19,17 +19,15 @@ Currently training for **eJPTv2**, **CompTIA Security+**, and **AWS Certified Cl
 
 ---
 
-### 💻 Specialized Expertise
+### 💻 Areas of Expertise
 
 * **🗡️ Offensive Security & Red Team Operations:** Execution of structured pentesting methodologies (OWASP Top 10) and advanced Active Directory exploitation (Kerberoasting, DCSync, Pass-The-Hash). Expertise in lateral movement, privilege escalation, and defense evasion. Development of custom exploits, network scanners, and automation scripts utilizing **Python Hacking** (Scapy, PyMetasploit) and Bash.
-  
-* **🏗️ Full Stack Software Engineering:** End-to-end software development applying Object-Oriented Programming (OOP) and the MVC pattern. Design and deployment of scalable platforms (e.g., academic management systems, clinical booking apps) by seamlessly connecting **Angular** front-ends with **Laravel/PHP** back-ends via secure **RESTful APIs**.
-  
-* **⚙️ Infrastructure & DevSecOps:** Administration of Linux environments, Docker containerization, and AWS cloud management. Implementation of relational databases (MySQL) with strict data validation to mitigate source code vulnerabilities (SQLi, XSS) from day one.
+* **⚙️ Full Stack Software Engineering:** End-to-end software development applying Object-Oriented Programming (OOP) and the MVC pattern. Design and deployment of scalable platforms (e.g., academic management systems, clinical booking apps) by seamlessly connecting **Angular** front-ends with **Laravel/PHP** back-ends via secure **RESTful APIs**.
+* **🌐 Infrastructure & DevSecOps:** Administration of Linux environments, Docker containerization, and AWS cloud management. Implementation of relational databases (MySQL) with strict data validation to mitigate source code vulnerabilities (SQLi, XSS) from day one.
 
 ---
 
-### 🧰 Technical Arsenal
+### 🚀 Technical Arsenal
 
 **Cybersecurity, Red Team & Infrastructure**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-202934?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-2875CC?style=flat-square) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
