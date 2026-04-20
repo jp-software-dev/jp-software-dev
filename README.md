@@ -22,9 +22,9 @@ Currently training for **eJPTv2**, **CompTIA Security+**, and **AWS Certified Cl
 ### 💻 Specialized Expertise
 
 * **🗡️ Offensive Security & Red Team Operations:** Execution of structured pentesting methodologies (OWASP Top 10) and advanced Active Directory exploitation (Kerberoasting, DCSync, Pass-The-Hash). Expertise in lateral movement, privilege escalation, and defense evasion. Development of custom exploits, network scanners, and automation scripts utilizing **Python Hacking** (Scapy, PyMetasploit) and Bash.
-* 
+  
 * **🏗️ Full Stack Software Engineering:** End-to-end software development applying Object-Oriented Programming (OOP) and the MVC pattern. Design and deployment of scalable platforms (e.g., academic management systems, clinical booking apps) by seamlessly connecting **Angular** front-ends with **Laravel/PHP** back-ends via secure **RESTful APIs**.
-* 
+  
 * **⚙️ Infrastructure & DevSecOps:** Administration of Linux environments, Docker containerization, and AWS cloud management. Implementation of relational databases (MySQL) with strict data validation to mitigate source code vulnerabilities (SQLi, XSS) from day one.
 
 ---
