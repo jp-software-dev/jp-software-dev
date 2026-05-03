@@ -44,15 +44,16 @@ Backed by elite international credentials: **SC-200, PL-300, CySA+, SPLK-1001, a
 
 <p align="center">
   <a href="https://github.com/jp-software-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=jp-software-dev&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=9f9f9f&v=2" height="150" alt="GitHub Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=jp-software-dev&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=9f9f9f" alt="GitHub Stats" />
   </a>
   &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/jp-software-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-software-dev&layout=compact&theme=transparent&hide_border=true&title_color=3670A0&text_color=9f9f9f&hide=hack,css&v=2" height="150" alt="Top Languages" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-software-dev&layout=compact&theme=transparent&hide_border=true&title_color=3670A0&text_color=9f9f9f&hide=Hack,CSS" alt="Top Languages" />
   </a>
 </p>
 
 ---
+
 <p align="center">
   📍 Based in Toluca, Estado de México<br>
   <strong>Vanguard DevSec | 2026 - 2027</strong>
