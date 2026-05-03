@@ -1,6 +1,6 @@
 <h1 align="center">Juan Pablo Mercado Arizmendi</h1>
 <p align="center">
-  <strong>Data & Security Analyst Jr. | Full Stack Software Developer</strong><br>
+  <strong>Data & Security Analyst | Full Stack Software Developer</strong><br>
   <i>"Building scalable architectures, extracting actionable insights, and defending infrastructure through data-driven security."</i>
 </p>
 
@@ -43,13 +43,9 @@ Backed by elite international credentials: **SC-200, PL-300, CySA+, SPLK-1001, a
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/jp-software-dev">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=jp-software-dev&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=9f9f9f" alt="GitHub Stats" />
-  </a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/jp-software-dev">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-software-dev&layout=compact&theme=transparent&hide_border=true&title_color=3670A0&text_color=9f9f9f&hide=Hack,CSS" alt="Top Languages" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jp-software-dev&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=9f9f9f" alt="GitHub Stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-software-dev&layout=compact&theme=transparent&hide_border=true&title_color=3670A0&text_color=9f9f9f&hide=Hack,CSS" alt="Top Languages" />
 </p>
 
 ---
