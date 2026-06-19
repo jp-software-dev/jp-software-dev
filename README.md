@@ -13,53 +13,9 @@
 
 ### 🛡️ About Me
 
-**Computer Systems Engineer and Programming Technician** with a solid 6-year academic track record. I have **+2 years of professional experience** in **Full Stack software development** applied to business digitalization, and **+1 year of total immersion in Hybrid Cybersecurity (Blue Team & Red Team)**. I specialize primarily in **Blue Team operations and Security Data Analytics**, leveraging my foundational knowledge of Red Team tactics to proactively anticipate, detect, and mitigate threats.
-
-My methodology bridges the gap between software engineering, data intelligence, and corporate defense. I am an expert in extracting and transforming complex data volumes using **SQL** and **Python**, translating technical data into actionable intelligence and high-impact visual assets to protect corporate infrastructure.
+**Programming Technician and Computer Systems Engineer** with a solid 6-year academic track record. I have **+2 years of professional experience** in **Full Stack software development** applied to business digitalization, and **+1 year of total immersion in Hybrid Cybersecurity (Blue Team & Red Team)**. I specialize primarily in the Blue Team area across two distinct focuses: **Data Analytics** and **Security Analytics**, leveraging my foundational knowledge of Red Team tactics to proactively anticipate, detect, and mitigate threats.
 
 Backed by elite international credential tracks: **SC-200, PL-300, CySA+, SPLK-1001, and CLF-C02**.
-
----
-
-### 🔭 Featured Projects & Architecture
-
-I am currently developing and maintaining a heavy-weight portfolio of independent, complex architectures.
-
-**🧠 Artificial Intelligence & Machine Learning**
-*   **[`NeuralSign-LSM`](#)**: *(Completed)* Computer vision and deep learning engine.
-*   **[`hand-sentinel`](#)**: *(Completed)* Real-time anatomical node processing.
-*   **[`neural-image-classifier`](#)**: *(In Progress)* Neural network-based image classifier.
-*   **[`custom-nlp-chatbot`](#)**: *(In Progress)* Advanced natural language processing chatbot.
-*   **[`facial-recognition-attendance`](#)**: *(In Progress)* Biometrics and real-time attendance control.
-
-**🌐 Web Development & Software Architecture**
-*   **[`the-collection-ecommerce`](#)**: *(In Progress)* High-end automotive E-commerce platform / MVC Architecture.
-
-**🔐 Network Infrastructure & Cybersecurity Defense**
-*   **[`custom-siem-architecture`](#)**: *(In Progress)* Event management and log indexing architecture.
-*   **[`malware-analysis-sandbox`](#)**: *(In Progress)* Virtualized environment for isolated malware analysis.
-*   **[`network-ids-system`](#)**: *(In Progress)* Low-level network intrusion detection system.
-*   **[`custom-vpn-service`](#)**: *(In Progress)* VPN service with network sockets and encrypted tunnels.
-
-**📊 Data Engineering**
-*   **[`big-data-dashboard`](#)**: *(In Progress)* Dashboard and ETL pipelines for massive volumes.
-*   **[`high-frequency-trading-bot`](#)**: *(In Progress)* Low latency asynchronous financial algorithm.
-
-**🐍 Python Logic Mastery**
-*   **[`python-practice`](#)**: A consolidated repository containing all my local scripts and algorithms to master Python logic. Ranging from beginner automation tools to intermediate web scrapers, sockets, and currently scaling towards advanced Data Engineering (Pandas) and Cybersecurity tools (Keyloggers, Port Scanners, AES/RSA Cryptography).
-
----
-
-### 🌱 Continuous Learning & Certifications Path
-
-I am currently undergoing an intensive training program to solidify my technical foundations and achieve international certifications.
-
-*   **Security Operations (Blue Team):** Microsoft Certified: Security Operations Analyst Associate (SC-200) *[In Progress]*
-*   **SIEM & Monitoring:** Splunk Core Certified User (SPLK-1001) *[In Progress]*
-*   **Security Analytics Elite:** CompTIA Cybersecurity Analyst (CySA+) *[In Progress]*
-*   **Data Analytics:** Microsoft Certified: Power BI Data Analyst Associate (PL-300) *[In Progress]*
-*   **Cloud Security:** AWS Certified Cloud Practitioner (CLF-C02) *[In Progress]*
-*   **Technical Foundations (Udemy Track):** Cisco CCNA, Ultimate Linux & Docker, Defensive Cybersecurity, Active Directory Hacking, Python for Data Science & Machine Learning.
 
 ---
 
