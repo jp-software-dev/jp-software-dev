@@ -13,9 +13,11 @@
 
 ### 🛡️ About Me
 
-**Programming Technician and Computer Systems Engineer** with a solid 6-year academic track record. I have **+2 years of professional experience** in **Full Stack software development** applied to business digitalization, and **+1 year of total immersion in Hybrid Cybersecurity (Blue Team & Red Team)**. I specialize primarily in the Blue Team area across two distinct focuses: **Data Analytics** and **Security Analytics**, leveraging my foundational knowledge of Red Team tactics to proactively anticipate, detect, and mitigate threats.
+Programming Technician and Computer Systems Engineer with a solid 6-year academic track record. I have +2 years of professional experience in Full Stack software development applied to business automation and digitalization, and +1 year of total immersion in Hybrid Cybersecurity (Blue Team & Red Team). 
 
-Backed by elite international credential tracks: **PL-300, CySA+, SPLK-1001, and CLF-C02**.
+I specialize primarily in the Blue Team area across two distinct focuses: Data Analytics and Security Analytics, leveraging my foundational knowledge of Red Team tactics to proactively anticipate, detect, and mitigate threats.
+
+Backed by elite international credential tracks: PL-300, CySA+, SPLK-1001, and CLF-C02.
 
 ---
 
@@ -42,5 +44,5 @@ Backed by elite international credential tracks: **PL-300, CySA+, SPLK-1001, and
 
 <p align="center">
   📍 Based in Toluca, Estado de México<br>
-  <strong>Vanguard DevSec | 2026 - 2027</strong>
+  <strong>Vanguard DevSec | 2025 - Present</strong>
 </p>
