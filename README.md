@@ -13,22 +13,22 @@
 
 ### 👨‍💻 About Me
 
-Programming Technician and Computer Systems Engineer specialized in engineering robust web applications, multi-tenant SaaS platforms, and automated business workflows[cite: 13]. My core technical expertise sits at the convergence of **scalable software architecture** and **advanced data analytics**[cite: 1, 2].
+Programming Technician and Computer Systems Engineer specialized in engineering robust web applications, multi-tenant SaaS platforms, and automated business workflows. My core technical expertise sits at the convergence of **scalable software architecture** and **advanced data analytics**.
 
-I design systems from end-to-end—combining cloud-native web architectures with data intelligence methodologies to turn complex business logic and raw data streams into high-performance, strategic solutions[cite: 1, 13].
+I design systems from end-to-end—combining cloud-native web architectures with data intelligence methodologies to turn complex business logic and raw data streams into high-performance, strategic solutions.
 
 🎓 **Certified Credentials:**
-* **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**[cite: 1]
-* **AWS Certified Cloud Practitioner (CLF-C02)**[cite: 1]
+* **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+* **AWS Certified Cloud Practitioner (CLF-C02)**
 
 ---
 
 ### 💻 Areas of Expertise
 
-* **🌐 Full Stack & Web Architecture:** End-to-end design, development, and deployment of scalable multi-tenant platforms[cite: 13]. Full SDLC management using **Next.js, React, TypeScript, Node.js, NestJS, PHP (Laravel), Java**, and **Python (Flask)**[cite: 2, 13]. Database design and orchestration with **PostgreSQL, Supabase, Prisma ORM**, and **MySQL**[cite: 2, 13].
-* **📊 Data Analytics & Data Engineering:** Advanced **SQL** query optimization, database architecture, and ETL pipeline design[cite: 2]. Exploratory Data Analysis (EDA) and machine learning workflows using **Python** (Pandas, NumPy, Scikit-Learn) and **R**[cite: 2]. Interactive executive reporting with **Microsoft Power BI (DAX, Data Modeling)** and **Tableau**[cite: 1, 2].
-* **🤖 AI Integration & Computer Vision:** Integrating ML/AI capabilities and Computer Vision models into production applications (**TensorFlow, OpenCV, MediaPipe**)[cite: 13]. Accelerating engineering workflows using LLM tools and automated agents[cite: 13].
-* **⚙️ Cloud & DevOps Infrastructure:** Containerization and deployment orchestration using **Docker**, paired with Cloud infrastructure management across **AWS** and **Google Cloud Platform (GCP)**[cite: 1, 2, 13].
+* **🌐 Full Stack & Web Architecture:** End-to-end design, development, and deployment of scalable multi-tenant platforms. Full SDLC management using **Next.js, React, TypeScript, Node.js, NestJS, PHP (Laravel), Java**, and **Python (Flask)**. Database design and orchestration with **PostgreSQL, Supabase, Prisma ORM**, and **MySQL**.
+* **📊 Data Analytics & Data Engineering:** Advanced **SQL** query optimization, database architecture, and ETL pipeline design. Exploratory Data Analysis (EDA) and machine learning workflows using **Python** (Pandas, NumPy, Scikit-Learn) and **R**. Interactive executive reporting with **Microsoft Power BI (DAX, Data Modeling)** and **Tableau**.
+* **🤖 AI Integration & Computer Vision:** Integrating ML/AI capabilities and Computer Vision models into production applications (**TensorFlow, OpenCV, MediaPipe**). Accelerating engineering workflows using LLM tools and automated agents.
+* **⚙️ Cloud & DevOps Infrastructure:** Containerization and deployment orchestration using **Docker**, paired with Cloud infrastructure management across **AWS** and **Google Cloud Platform (GCP)**.
 
 ---
 
@@ -43,6 +43,5 @@ I design systems from end-to-end—combining cloud-native web architectures with
 ---
 
 <p align="center">
-  📍 Based in Toluca, Estado de México | Open to Remote & On-Site Opportunities<br>
-  <strong>Co-Founder & Tech Lead at Vanguard DevSec</strong>
+  📍 Based in Toluca, Estado de México | Open to Remote & On-Site Opportunities
 </p>
