@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-Computer Systems Engineer and Full Stack Developer specialized in engineering robust web applications, multi-tenant SaaS platforms, and automated business workflows[cite: 13]. My core technical expertise sits at the convergence of **scalable software architecture** and **advanced data analytics**[cite: 1, 2].
+Programming Technician and Computer Systems Engineer specialized in engineering robust web applications, multi-tenant SaaS platforms, and automated business workflows[cite: 13]. My core technical expertise sits at the convergence of **scalable software architecture** and **advanced data analytics**[cite: 1, 2].
 
 I design systems from end-to-end—combining cloud-native web architectures with data intelligence methodologies to turn complex business logic and raw data streams into high-performance, strategic solutions[cite: 1, 13].
 
