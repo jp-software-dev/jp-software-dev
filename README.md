@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-Programming Technician and Computer Systems Engineer specialized in engineering robust web applications, multi-tenant SaaS platforms, and automated business workflows. My core technical expertise sits at the convergence of **scalable software architecture** and **advanced data analytics**.
+Programming Technician and Computer Systems Engineer specialized in engineering robust web applications, multi-tenant SaaS platforms, and automated business workflows. **With experience leading development teams and building products for international markets,** my core technical expertise sits at the convergence of **scalable software architecture** and **advanced data analytics**.
 
 I design systems from end-to-end—combining cloud-native web architectures with data intelligence methodologies to turn complex business logic and raw data streams into high-performance, strategic solutions.
 
