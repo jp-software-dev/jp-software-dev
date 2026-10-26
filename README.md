@@ -18,17 +18,18 @@ Programming Technician and Computer Systems Engineer specialized in engineering 
 I design systems from end-to-end—combining cloud-native web architectures with data intelligence methodologies to turn complex business logic and raw data streams into high-performance, strategic solutions.
 
 🎓 **Certified Credentials:**
-* **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
-* **AWS Certified Cloud Practitioner (CLF-C02)**
+- **AWS Certified Data Engineer - Associate (DEA-C01)**
+- **AWS Certified Cloud Practitioner (CLF-C02)**
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
 
 ---
 
 ### 💻 Areas of Expertise
 
-* **🌐 Full Stack & Web Architecture:** End-to-end design, development, and deployment of scalable multi-tenant platforms. Full SDLC management using **Next.js, React, TypeScript, Node.js, NestJS, PHP (Laravel), Java**, and **Python (Flask)**. Database design and orchestration with **PostgreSQL, Supabase, Prisma ORM**, and **MySQL**.
-* **📊 Data Analytics & Data Engineering:** Advanced **SQL** query optimization, database architecture, and ETL pipeline design. Exploratory Data Analysis (EDA) and machine learning workflows using **Python** (Pandas, NumPy, Scikit-Learn) and **R**. Interactive executive reporting with **Microsoft Power BI (DAX, Data Modeling)** and **Tableau**.
-* **🤖 AI Integration & Computer Vision:** Integrating ML/AI capabilities and Computer Vision models into production applications (**TensorFlow, OpenCV, MediaPipe**). Accelerating engineering workflows using LLM tools and automated agents.
-* **⚙️ Cloud & DevOps Infrastructure:** Containerization and deployment orchestration using **Docker**, paired with Cloud infrastructure management across **AWS** and **Google Cloud Platform (GCP)**.
+- **🌐 Full Stack & Web Architecture:** End-to-end design, development, and deployment of scalable multi-tenant platforms. Full SDLC management using **Next.js, React, TypeScript, Node.js, NestJS, PHP (Laravel), Java**, and **Python (Flask)**. Database design and orchestration with **PostgreSQL, Supabase, Prisma ORM**, and **MySQL**.
+- **📊 Data Analytics & Data Engineering:** Advanced **SQL** query optimization, database architecture, and ETL pipeline design. Exploratory Data Analysis (EDA) and machine learning workflows using **Python** (Pandas, NumPy, Scikit-Learn) and **R**. Interactive executive reporting with **Microsoft Power BI (DAX, Data Modeling)** and **Tableau**.
+- **🤖 AI Integration & Computer Vision:** Integrating ML/AI capabilities and Computer Vision models into production applications (**TensorFlow, OpenCV, MediaPipe**). Accelerating engineering workflows using LLM tools and automated agents.
+- **⚙️ Cloud & DevOps Infrastructure:** Containerization and deployment orchestration using **Docker**, paired with Cloud infrastructure management across **AWS** and **Google Cloud Platform (GCP)**.
 
 ---
 
