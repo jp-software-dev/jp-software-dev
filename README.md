@@ -49,11 +49,9 @@ My expertise spans from full-stack web engineering and microservices to data pip
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,py,r" />
         </a>
-      </p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+        <a href="https://go-skill-icons.vercel.app">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi,tableau,excel" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
