@@ -49,9 +49,10 @@ My expertise spans from full-stack web engineering and microservices to data pip
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,py,r" />
         </a>
-        <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" style="vertical-align: middle; background-color: #252836; padding: 9px; border-radius: 10px; margin-left: 2px;" alt="Power BI" />
-        <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" style="vertical-align: middle; background-color: #252836; padding: 9px; border-radius: 10px; margin-left: 2px;" alt="Tableau" />
-        <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" style="vertical-align: middle; background-color: #252836; padding: 9px; border-radius: 10px; margin-left: 2px;" alt="Excel" />
+        <br />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="38" alt="Power BI" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="38" alt="Tableau" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="38" alt="Excel" />
       </p>
     </td>
     <td width="50%" valign="top">
