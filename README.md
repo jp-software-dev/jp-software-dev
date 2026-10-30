@@ -49,9 +49,11 @@ My expertise spans from full-stack web engineering and microservices to data pip
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,py,r" />
         </a>
-        <img src="https://img.shields.io/badge/-1a1b26?style=for-the-badge&logo=powerbi&logoColor=F2C811" height="48" style="vertical-align: top;" alt="Power BI" />
-        <img src="https://img.shields.io/badge/-1a1b26?style=for-the-badge&logo=tableau&logoColor=E97627" height="48" style="vertical-align: top;" alt="Tableau" />
-        <img src="https://img.shields.io/badge/-1a1b26?style=for-the-badge&logo=microsoftexcel&logoColor=217346" height="48" style="vertical-align: top;" alt="Excel" />
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
       </p>
     </td>
     <td width="50%" valign="top">
