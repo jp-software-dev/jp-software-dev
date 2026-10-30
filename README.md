@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Software+Engineer;Data+Engineer+%26+Analytics;Cloud+Security+%26+Multi-Cloud" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Software+Developer;Data+Engineer+%26+Analytics;Cloud+Security+%26+Multi-Cloud" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ My expertise spans from full-stack web engineering and microservices to data pip
       <p><em>Architecting robust multi-tenant platforms, scalable RESTful APIs, and core business logic.</em></p>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,nest,express,php,laravel,java,python,cs" />
+          <img src="https://skillicons.dev/icons?i=nodejs,nest,express,php,laravel,java,python" />
         </a>
       </p>
     </td>
@@ -49,9 +49,9 @@ My expertise spans from full-stack web engineering and microservices to data pip
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,py,r" />
         </a>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" style="vertical-align: middle;" alt="Power BI" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="40" style="vertical-align: middle;" alt="Tableau" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="40" style="vertical-align: middle;" alt="Excel" />
+        <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" style="vertical-align: middle; background-color: #252836; padding: 9px; border-radius: 10px; margin-left: 2px;" alt="Power BI" />
+        <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" style="vertical-align: middle; background-color: #252836; padding: 9px; border-radius: 10px; margin-left: 2px;" alt="Tableau" />
+        <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" style="vertical-align: middle; background-color: #252836; padding: 9px; border-radius: 10px; margin-left: 2px;" alt="Excel" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -65,19 +65,3 @@ My expertise spans from full-stack web engineering and microservices to data pip
     </td>
   </tr>
 </table>
-
----
-
-### 🐍 My Contribution Snake
-
-Here's a view of my contribution activity across repositories:
-
-<div align="center">
-  <picture>
-    <!-- Dark mode snake -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jp-software-dev/jp-software-dev/blob/main/github-contribution-grid-snake-dark.svg">
-    <!-- Light mode snake -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/jp-software-dev/jp-software-dev/blob/main/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jp-software-dev/jp-software-dev/main/dist/github-contribution-grid-snake.svg">
-  </picture>
-</div>
