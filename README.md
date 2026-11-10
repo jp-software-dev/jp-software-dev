@@ -1,24 +1,23 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Software+Developer;Data+Engineer+%26+Analytics;Cloud+Security+%26+Multi-Cloud" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Software+Developer;SOC+Analyst+%26+Blue+Team;Cloud+Security+%26+DevSecOps" />
   </a>
 </p>
 
-<h1 align="center">"Building scalable web architectures, extracting strategic data intelligence, and securing multi-cloud ecosystems."</h1>
+<h1 align="center">"Building scalable web architectures, auditing defensible systems, and securing multi-cloud ecosystems."</h1>
 
 ---
 
-### 🎓 Certified Credentials
-- 🏅 **AWS Certified Data Engineer - Associate (DEA-C01)**
-- 🏅 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
-- 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🏅 **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
+### 🎓 Target & Professional Credentials
+- 🏆 **CompTIA CySA+ (Cybersecurity Analyst - CS0-004)** — *Advanced SOC Operations & Threat Detection*[cite: 15]
+- 🏅 **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)** — *Zero Trust & Entra ID Security*[cite: 14, 18, 19]
+- 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)** — *Core Cloud Infrastructure & Azure Architecture*[cite: 14]
 
 ---
 
 ### 🛠️ My Core Competencies & Tech Stack
 
-My expertise spans from full-stack web engineering and microservices to data pipeline architectures, executive business intelligence, and multi-cloud security governance.
+My expertise spans from full-stack web engineering and secure APIs to threat monitoring, network security, and cloud security governance.
 
 <table width="100%">
   <tr>
@@ -27,39 +26,36 @@ My expertise spans from full-stack web engineering and microservices to data pip
       <p><em>Designing responsive, high-performance web applications and interactive UI/UX interfaces.</em></p>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Backend & API Engineering</h3>
-      <p><em>Architecting robust multi-tenant platforms, scalable RESTful APIs, and core business logic.</em></p>
+      <p><em>Architecting robust multi-tenant platforms, scalable RESTful APIs, and secure business logic.</em></p>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,nest,express,php,laravel,java,python" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,flask,dotnet,cs" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Data Engineering & Analytics</h3>
-      <p><em>ETL pipeline design, database orchestration, exploratory data analysis, and executive BI dashboards.</em></p>
+      <h3>🛡️ Cybersecurity & Defensive Operations</h3>
+      <p><em>SOC operations, network traffic analysis, vulnerability assessment, Active Directory security, and threat auditing.</em></p>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,py,r" />
-        </a>
-        <a href="https://go-skill-icons.vercel.app">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi,tableau,excel" />
+          <img src="https://skillicons.dev/icons?i=kali,linux,bash,wireshark,powershell,postgres,mysql" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Cloud, DevOps & Security</h3>
-      <p><em>Multi-cloud infrastructure (AWS & Azure), containerization, zero-trust security, and cloud governance.</em></p>
+      <h3>☁️ Cloud Security, DevOps & Infrastructure</h3>
+      <p><em>Multi-cloud infrastructure (Azure & AWS), container security, Zero-Trust identity management, and SIEM monitoring.</em></p>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github,linux,vscode" />
+          <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,vscode" />
         </a>
       </p>
     </td>
