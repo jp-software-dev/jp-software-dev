@@ -1,23 +1,16 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Software+Developer;SOC+Analyst+%26+Blue+Team;Cloud+Security+%26+DevSecOps" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Software+Developer;SOC+Analyst+%26+Blue+Team" />
   </a>
 </p>
 
-<h1 align="center">"Building scalable web architectures, auditing defensible systems, and securing cloud ecosystems."</h1>
-
----
-
-### 🎓 Target & Professional Credentials
-- 🏆 **CompTIA CySA+ (Cybersecurity Analyst - CS0-004)** — *Advanced SOC Operations & Threat Detection*
-- 🏅 **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)** — *Zero Trust & Entra ID Security*
-- 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)** — *Core Cloud Infrastructure & Azure Architecture*
+<h1 align="center">"Building scalable web architectures, auditing defensible systems, and securing digital ecosystems."</h1>
 
 ---
 
 ### 🛠️ My Core Competencies & Tech Stack
 
-My expertise spans from full-stack web engineering and secure APIs to threat monitoring, network security, and cloud security governance.
+My expertise spans from full-stack web engineering and secure APIs to threat monitoring, network security, and defensive operations.
 
 <table width="100%">
   <tr>
@@ -57,11 +50,11 @@ My expertise spans from full-stack web engineering and secure APIs to threat mon
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Cloud Security, DevOps & Infrastructure</h3>
-      <p><em>Cloud infrastructure (Azure), container security, Zero-Trust identity management, and SIEM monitoring.</em></p>
+      <h3>🚀 DevOps, Containers & Infrastructure</h3>
+      <p><em>Containerization, version control, environment management, and production deployment workflows.</em></p>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode" />
+          <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
         </a>
       </p>
     </td>
